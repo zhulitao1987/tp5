@@ -1,0 +1,6 @@
+.idea
+composer.lock
+*.log
+/nbproject
+runtime
+application/database.php
